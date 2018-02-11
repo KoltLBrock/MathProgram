@@ -1,0 +1,10 @@
+C:\CIDM3312\MathProgram\bin\Debug\netcoreapp2.0\MathProgram.deps.json
+C:\CIDM3312\MathProgram\bin\Debug\netcoreapp2.0\MathProgram.runtimeconfig.json
+C:\CIDM3312\MathProgram\bin\Debug\netcoreapp2.0\MathProgram.runtimeconfig.dev.json
+C:\CIDM3312\MathProgram\bin\Debug\netcoreapp2.0\MathProgram.dll
+C:\CIDM3312\MathProgram\bin\Debug\netcoreapp2.0\MathProgram.pdb
+C:\CIDM3312\MathProgram\obj\Debug\netcoreapp2.0\MathProgram.csproj.CoreCompileInputs.cache
+C:\CIDM3312\MathProgram\obj\Debug\netcoreapp2.0\MathProgram.AssemblyInfoInputs.cache
+C:\CIDM3312\MathProgram\obj\Debug\netcoreapp2.0\MathProgram.AssemblyInfo.cs
+C:\CIDM3312\MathProgram\obj\Debug\netcoreapp2.0\MathProgram.dll
+C:\CIDM3312\MathProgram\obj\Debug\netcoreapp2.0\MathProgram.pdb
